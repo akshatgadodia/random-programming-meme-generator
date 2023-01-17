@@ -7,5 +7,8 @@ Flask API to return random programming meme images scrapped from [Memedroid](htt
 Just add `img` tag in your website / README file and it will display a random meme everytime the website is loaded
 
 ```html
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-programming-meme-generator.vercel.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 ```
+
+### Deployment Link
+https://random-programming-meme-generator.vercel.app/
